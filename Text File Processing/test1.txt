@@ -1,0 +1,4 @@
+Hello, this is a test file
+First Line
+42
+Third oneAdded in append mode
